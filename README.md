@@ -74,3 +74,4 @@
 - http://www.cnblogs.com/GoodHelper/category/924329.html
 - 泥瓦匠Spring Boot学习案例：https://git.oschina.net/jeff1993/springboot-learning-example
 - https://github.com/ityouknow/spring-boot-examples
+- https://gitee.com/didispace/SpringBoot-Learning
