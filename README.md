@@ -20,7 +20,8 @@
 
 #### 工程配置
 
-- chapter2-1-1
+- https://my.oschina.net/ilimhumar/blog/1560870
+- https://github.com/ilimhumar/SpringBoot-Learning/tree/master/springbootproperties
 
 #### Web开发
 
