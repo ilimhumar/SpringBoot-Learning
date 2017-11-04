@@ -14,7 +14,9 @@
 
 #### 快速入门
 
-- chapter1：
+- SpringBoot 入门
+https://my.oschina.net/ilimhumar/
+https://github.com/ilimhumar/SpringBoot-Learning/tree/master/helloworld
 
 #### 工程配置
 
